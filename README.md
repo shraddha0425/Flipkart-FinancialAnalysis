@@ -1,9 +1,19 @@
 # Flipkart-FinancialAnalysis
 
-## Project Title:
+## Project Title: Flipkart Analysis Using Microsoft Excel
 
+## Project Objective: To analyze Flipkart e-commerce data using Microsoft Excel to uncover key trends in sales, customer behavior, product performance, and return patterns.
 
-## Project Objective:
+## Problem Statement: Flipkart is facing a financial loss due to critical challenge with returned products at a higher rate 
+
+## Data Analysis Steps: 
+1. Defined the problem statement
+2. Collecting data
+3. Cleaning the data
+4. Preparing data
+5. Analyzing the data using Pivot Tables in Microsoft Excel
+6. Data visualization with the help of Pivot Charts
+7. Data Interpretation & finding Business solutions
 
 ## Data Insights:
 
@@ -19,4 +29,15 @@
 10. Top 10 highly returned products are Loreal Hair Color, Dell Laptop, Sherlock Holmes Book, Puma Sport Shoes, Remote Control Car, LG Refrigerator, Kids Frock, Silver Bracelet, The Alcemist Book & Redmi Note 12
 
 ## Business Suggestions & Solutions:
+
+1. Strengthen packing and picking accuracy before items are dispatched 
+2. Implement visual inspection of products in the warehouses
+3. For EMI based orders, add extra verification on product like cusotmer confirmation calls
+4. Expand and improve logistics for faster delivery by increasing the number of storehouses at high-order based locations
+5. Analyze customer behaviour and offer regional language support to ensure clear product understanding based on the specific states/cities with highest return rates
+6. Audit the vendors for certain brand products with lowest sales
+7. Add customer video reviews, improved size charts, product specifications and FAQs for products being highly returned
+8.Offer cashback or store credit instead of product returns where applicable
+9. Suggest alternatives to customers with a high return probability.
+
 
